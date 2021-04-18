@@ -2,7 +2,7 @@
 
 ---
 
-## Usage
+## Usage for Mac
 
 ```shell
 git clone https://github.com/Jeff-Tian/.alias.git ~/.alias
