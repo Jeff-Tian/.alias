@@ -1,7 +1,7 @@
 alias k="kubectl"
 alias kcu="kubectl config use-context"
 alias kubesail="k8ss switch --cluster=kubesail --namespace=jeff-tian"
-alias okteto="k8ss switch --cluster=okteto --namespace=jeff-tian"
+alias k-okteto="k8ss switch --cluster=okteto --namespace=jeff-tian"
 
 alias kcustg="kubectl config use-context stg-chi"
 alias kcuprd="kubectl config use-context prd-chi"
