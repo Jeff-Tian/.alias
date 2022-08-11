@@ -9,3 +9,9 @@ git clone https://github.com/Jeff-Tian/.alias.git ~/.alias
 
 echo "source \"$HOME/.alias/.zshrc\"" >> ~/.zshrc
 ```
+
+## un-alias a command
+
+```shell
+unalias xxx
+```
